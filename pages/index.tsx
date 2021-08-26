@@ -15,6 +15,7 @@ const HomePage: React.FC = () => {
     <>
       <MobileMenu isOpen={isOpen} toggle={toggle} />
       <Navbar toggle={toggle} />
+      <div>Hello</div>
       <HeroSection />
     </>
   )
