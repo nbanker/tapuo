@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/nbanker/tapuo#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "formik": "^2.1.7",
     "next": "^9.5.3",
     "react": "^16.13.1",
